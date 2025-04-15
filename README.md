@@ -28,6 +28,7 @@
 
 ## Screenshot
 ![image alt](https://github.com/Vaneesa-3/fullstack-ai-attendance-assistant/blob/f52b53fe13fb0c817b29c9b070cdbfc5d6618b72/Screenshot%202025-04-15%20121544.png)
+![image alt](https://github.com/Vaneesa-3/fullstack-ai-attendance-assistant/blob/7802025bcb24927aeed30d60cd0e2af0c9308ee8/Screenshot%202025-04-15%20121531.png)
 
 ### Prerequisites
 
