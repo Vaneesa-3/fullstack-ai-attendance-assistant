@@ -26,7 +26,8 @@
 - **Machine Learning**: A Logistic Regression model trained on historical class data predicts faculty presence.  
 - **Data**: Processed from a CSV file including class timings, subject names, and faculty availability.
 
-## Installation
+## Screenshot
+![image alt](https://github.com/Vaneesa-3/fullstack-ai-attendance-assistant/blob/f52b53fe13fb0c817b29c9b070cdbfc5d6618b72/Screenshot%202025-04-15%20121544.png)
 
 ### Prerequisites
 
